@@ -1,0 +1,28 @@
+#include<stdio.h>
+int input()
+{
+int a;
+int b;
+printf("read a,b",&a,&b);
+return a,b;
+}
+int compute(int a,int b);
+{
+a=a+b;
+retun a;
+}
+void output(int x,int y)
+{
+printf("%d%d",x,y);
+return;
+}
+void main()
+{
+int a,b,sum;
+a=int a;
+b=int b;
+sum=compute(a+b);
+output=sum;
+return;
+}
+
