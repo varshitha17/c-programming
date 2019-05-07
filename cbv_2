@@ -17,4 +17,9 @@ return;
 void main()
 {
 int a,sum;
-printf("read 
+printf("read a\n");
+a=input()
+sum=comput(a)
+outut=sum
+return();
+}
